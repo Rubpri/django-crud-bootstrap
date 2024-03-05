@@ -7,7 +7,7 @@ Posteriormente podrás borrarlos o editarlos.
 ## Stack
 
 - Python/Django
-- PostgreSQL en AWS
+- PostgreSQL
 - Bootstrap
 - JavaScript
 
